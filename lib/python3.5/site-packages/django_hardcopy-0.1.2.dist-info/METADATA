@@ -1,0 +1,13 @@
+Metadata-Version: 2.0
+Name: django-hardcopy
+Version: 0.1.2
+Summary: Django wrapper and utils for generating PDFs with headless chrome.
+Home-page: https://github.com/loftylabs/django-hardcopy
+Author: Casey Kinsey / Lofty Labs
+Author-email: casey@hirelofty.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+
+
